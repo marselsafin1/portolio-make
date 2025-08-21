@@ -1,0 +1,48 @@
+{
+  "name": "marsel-safin-portfolio",
+  "version": "1.0.0",
+  "description": "En modern, clean och futuristisk portfolio-hemsida för Marsel Safin med micro-animations och mobile-first design",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build step required for static site'",
+    "test": "echo 'No tests specified'",
+    "lint": "echo 'No linting configured'"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "frontend",
+    "html",
+    "css",
+    "javascript",
+    "responsive",
+    "modern",
+    "futuristic",
+    "animations"
+  ],
+  "author": "Marsel Safin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/marsel-safin-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/marsel-safin-portfolio/issues"
+  },
+  "homepage": "https://github.com/username/marsel-safin-portfolio#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "typescript": "^5.9.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
