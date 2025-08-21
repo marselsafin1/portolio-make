@@ -2,7 +2,7 @@
 
 En modern, clean och futuristisk portfolio-hemsida byggd med HTML, CSS och JavaScript. Hemsidan är designad med mobile-first approach och innehåller avancerade micro-animations och dynamiska bakgrunder.
 
-## ✨ Funktioner1
+## ✨ Funktioner11
 
 ### 🎨 Design & UX
 - **Modern futuristisk design** med clean layout
