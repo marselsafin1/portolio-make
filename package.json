@@ -4,9 +4,9 @@
   "description": "En modern, clean och futuristisk portfolio-hemsida för Marsel Safin med micro-animations och mobile-first design",
   "main": "index.html",
   "scripts": {
-    "start": "python -m http.server 8000",
+    "start": "npx serve . -p 8000",
     "serve": "npx serve .",
-    "dev": "python -m http.server 8000",
+    "dev": "npx serve . -p 8000",
     "build": "echo 'No build step required for static site'",
     "test": "echo 'No tests specified'",
     "lint": "echo 'No linting configured'"
